@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/Abas-code/article-preview-component-master)
-- Live Site URL: (https://article-preview-component-master-chi-eight.vercel.app/)
+- Solution URL: (https://github.com/Abas-code/newsletter-sign-up-with-success-message-main)
+- Live Site URL: (https://newsletter-sign-up-with-success-message-main-orpin.vercel.app/)
 
 ## My process
 
